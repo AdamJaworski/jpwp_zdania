@@ -1,7 +1,7 @@
 # Linki #
 [Dokumentacja Numba](https://numba.readthedocs.io/en/stable/index.html)
 
-# Opis zadanek #
+# Opis zadań #
 Celem zadań będzie zoptymalizowanie funkcji znajdującej się w [bubble_sort.py](/bubble_sort.py). Kolejne podpunkty będą powoli przyśpieszać funkcję. Do pomiaru czasu używany jest taki sam dekorator jak podczas prezentacji, więc funkcja zamiast zwarć tablicę, będzie zwracać czas wykonania.
 Domyślnie ustawiłem rozmiar wejściowej listy na 10tys. elementów, u mnie na komputerze wykonanie startowej funkcji trwało 4-5 sekund, jeśli dla kogoś będzie to zajmować wiele więcej czasu to można po prostu zmienić ten rozmiar
 
